@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PouchPal</string>
+    <string name="log_pouch">I took a pouch</string>
+</resources>
